@@ -1,0 +1,31 @@
+.digital-clock {
+    height: 150px;
+    width: 300px;
+    border: 1px solid black;
+    background-color:gray;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+.clock{
+    height:100px;
+    width: 250px;
+    border: 1px solid black;
+    background-color:blueviolet;
+    margin: 22px;
+    margin-left: 20px;
+    
+
+}
+.dg{
+    text-align: center;
+}
+#time{
+    text-align: center;
+   
+
+}
+#am-pm{
+    margin-left: 200px;
+    margin-top: -50px;
+   
+}
